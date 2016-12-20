@@ -1,0 +1,6 @@
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe.config
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.pdb
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.csprojResolveAssemblyReference.cache
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.exe
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.pdb
